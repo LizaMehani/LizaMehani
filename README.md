@@ -48,25 +48,8 @@ Currently, I'm focusing on improving my development skills and working on my fir
 
 ---
 
-## 🚀 Featured Project
 
-<div align="center">
 
-### ✨ TaskFlow — In Development
-
-**A task management application designed to make organizing daily tasks easier.**
-
-🔹 Currently under development
-
-🔹 Exploring full-stack development
-
-🔹 Learning database integration with MongoDB
-
-*Project repository and updates coming soon!*
-
-</div>
-
----
 
 ## 📊 GitHub Activity
 
