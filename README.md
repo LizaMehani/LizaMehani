@@ -1,86 +1,114 @@
 <div align="center">
 
-# Hi there! 👋 I'm Liza Mehani
+# Hi 👋, I'm Liza Mehani
 
-### 🚀 Aspiring Full-Stack Developer | Student | Tech Enthusiast
+### 💻 Aspiring Full-Stack Developer | Creative Thinker | Lifelong Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development;Building+My+Future+in+Tech" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World!;Passionate+About+Web+Development;Learning+%7C+Creating+%7C+Growing;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-</div>
+<br>
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 I'm a student passionate about technology and programming.
-- 💻 Currently learning Full-Stack Web Development.
-- 🌱 Exploring HTML, CSS, JavaScript, React, and Node.js.
-- 🚀 Working on improving my coding and problem-solving skills.
-- 🎯 My goal is to become a skilled Full-Stack Developer.
-- ✨ I believe in learning, building, and growing every day.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 🌐 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=LizaMehani&label=Profile%20Views&color=7B68EE&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 💜 About Me
 
-🔨 Currently working on exciting projects!
+```javascript
+const liza = {
+    role: "Aspiring Full-Stack Developer",
+    currentlyLearning: [
+        "HTML", "CSS", "JavaScript",
+        "React", "Node.js", "MongoDB"
+    ],
+    currentProject: "TaskFlow",
+    interests: ["Web Development", "Technology", "Creative Projects"],
+    goal: "Building meaningful digital experiences",
+    motto: "Learn. Build. Improve. Repeat."
+};
+```
 
-My projects will be available here soon.
+I'm a passionate student exploring the world of web development.
+
+I enjoy learning new technologies, solving problems, and transforming creative ideas into real-world applications.
+
+Currently, I'm focusing on improving my development skills and working on my first projects.
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Technologies I'm Exploring
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LizaMehani&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LizaMehani&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode&theme=dark" alt="Technology Icons" />
 
 </div>
 
 ---
 
-## 🎯 My Goals
+## 🚀 Featured Project
 
-- 💻 Become a professional Full-Stack Developer.
-- 🚀 Build useful and creative web applications.
-- 🌍 Contribute to open-source projects.
-- 📚 Continue learning new technologies.
-- ✨ Grow as a developer every day.
+<div align="center">
+
+### ✨ TaskFlow — In Development
+
+**A task management application designed to make organizing daily tasks easier.**
+
+🔹 Currently under development
+
+🔹 Exploring full-stack development
+
+🔹 Learning database integration with MongoDB
+
+*Project repository and updates coming soon!*
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LizaMehani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub Statistics" />
+
+</div>
+
+---
+
+## 🌱 My Developer Journey
+
+<div align="center">
+
+| 💻 Currently Learning | 🎯 Future Goals |
+|:---:|:---:|
+| Frontend Development | Build Responsive Websites |
+| Backend Development | Create Full-Stack Applications |
+| Database Management | Develop Real-World Projects |
+| Git & GitHub | Contribute to Open Source |
+
+</div>
+
+---
+
+## ✨ A Little Motivation
+
+<div align="center">
+
+### "Every expert was once a beginner."
+
+💜 **Learning Today • Building Tomorrow • Growing Every Day** 💜
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for Visiting My Profile!
+### 💜 Thanks for Visiting!
 
-⭐ Learning Today, Building Tomorrow ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,100:00BFFF&height=110&section=footer" alt="Footer" />
 
 </div>
